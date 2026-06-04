@@ -17,3 +17,22 @@
   37 git status                                                       
   38 git restore testing.py                                           
   39 git status   
+    6 git remote set-url origin https://ghp_yYy8XIUmaIUOU239ZZazM29B...
+   7 git remote -v                                                    
+   8 git push origin master                                           
+   9 git remote set-url origin https://ghp_yYy8XIUmaIUOU239ZZazM29B...
+  10 git push origin master                                           
+  11 history                                                          
+  12 git remote -v                                                    
+  13 git remote set-url origin https://ghp_EjJ9e6g1n78OlOBrlecCyBBa...
+  14 git remote -v                                                    
+  15 git push origin master                                           
+  16  git status                                                      
+  17 git add .                                                        
+  18  git status                                                      
+  19 git commit -m "added push files"                                 
+  20 git remote set-url origin https://ghp_EjJ9e6g1n78OlOBrlecCyBBa...
+  21 git push origin master                                           
+  22 git status                                                       
+  23 git add git_commands.txt                                         
+  24 git commit -m "added new commands"    
